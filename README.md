@@ -13,7 +13,10 @@ N/A
 Navigate through the website and learn about online marketing by clicking on various links
 
 ## Links
-N/A
+https://tbloodmt.github.io/Challenge01/
+
+![A screenshot of Horiseon Webpage](Assets/01-html-css-git-homework-demo.png)
+
 
 ## License
 MIT
